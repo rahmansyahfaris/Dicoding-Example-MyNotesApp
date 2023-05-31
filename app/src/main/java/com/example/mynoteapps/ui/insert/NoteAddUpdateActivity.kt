@@ -19,6 +19,7 @@ class NoteAddUpdateActivity : AppCompatActivity() {
         const val EXTRA_NOTE = "extra_note"
         const val ALERT_DIALOG_CLOSE = 10
         const val ALERT_DIALOG_DELETE = 20
+        const val DUMMY = "dummy"
     }
 
     private var isEdit = false
